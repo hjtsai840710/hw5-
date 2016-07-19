@@ -1,8 +1,10 @@
+.block1{background: #4eaf6c;width: 200px;height: 50px;border: 3px solid #236c39;border-top-style: double;border-bottom-style: dotted }
+.block2{background: #4eaf6c;width: 150px;height: 200px;border: 3px solid #236c39;border-top-style: none;margin-left: 25px}
 .gb{background-image: url(../image/6809725-simple-vintage-backgrounds.jpg) ;width: 880px;height: 600px;}
 .plan{background-color: white;width: 200px;height: 450px;border-radius: 10px;font-family: cursive;color: gray;font-size: 14px;margin-left:90px}
 .block{background-color: #431d05;width: 200px;height: 250px;border-radius: 10px;}
 .text{font-size: 25px;color: white;padding-top: 30px;text-align: center }
-.small{font-size: 5px; margin-left: -90px}
+.small{font-size: 4px; margin-left: -90px}
 .big{font-size: 30px;margin-top: -15px;margin-left:auto; margin-right: auto}
 .small2{font-size: 5px;margin-top: -10px; margin-left: 100px}
 .tip{font-size: 15px;border:1px solid;width:100px;margin-top: 30px; margin-left: auto;margin-right: auto}
